@@ -6,11 +6,11 @@ A few years ago I was memorizing Biology chapters on the Pre-Medical track. Then
 
 ## What I build
 
-- 🤖 **Autonomous systems** — a social-media engine that runs ideation to posting with zero human in the loop
-- 📬 **Outreach automation** — hands-off cold-email systems with enrichment and follow-up logic
-- 📊 **Data pipelines** — multi-step enrichment dashboards, fully coded (Next.js + custom APIs)
-- 🗣️ **Voice + agentic AI** — AI voice agents, Gmail assistants, document-to-lesson generators
-- 🧠 **Classical ML / CV** — classification, detection, and computer vision projects
+- **Autonomous systems** — a social-media engine that runs ideation to posting with zero human in the loop
+- **Outreach automation** — hands-off cold-email systems with enrichment and follow-up logic
+- **Data pipelines** — multi-step enrichment dashboards, fully coded (Next.js + custom APIs)
+- **Voice + agentic AI** — AI voice agents, Gmail assistants, document-to-lesson generators
+- **Classical ML / CV** — classification, detection, and computer vision projects
 
 Most of my production work is client work in private repos. I break systems down publicly on [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai/).
 
