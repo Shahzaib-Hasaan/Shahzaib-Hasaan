@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm Shahzaib Hassan</h1>
-<h3 align="center">A passionate programmer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=740">
+# Hi, I'm Shahzaib Hassan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahxeebhassan&label=Profile%20views&color=0e75b6&style=flat" alt="shahxeebhassan" /> </p>
+**AI Automation Engineer.** I build AI systems that run real business operations.
 
-<p align="left"> <a href="https://twitter.com/shahxaib_hassan" target="blank"><img src="https://img.shields.io/twitter/follow/shahxaibhassan?logo=twitter&style=for-the-badge" alt="shahxaibhassan" /></a> </p>
+Five years ago I was memorizing Biology chapters on the Pre-Medical track. Then I spent 5 to 6 months researching where the world was heading, switched to a BS in Artificial Intelligence with zero programming background, and caught up fast: TA for a 10-month AI certification, co-founder of a university AI club, and my first automation engineering role in 7th semester, before graduating.
 
-- 🌱 I’m currently working on  **Machine Learning**
+## What I build
 
-- 📫 How to reach me **shahxeebhassan@gmail.com**
+- 🤖 **Autonomous systems** — a social-media engine that runs ideation to posting with zero human in the loop
+- 📬 **Outreach automation** — hands-off cold-email systems with enrichment and follow-up logic
+- 📊 **Data pipelines** — multi-step enrichment dashboards, fully coded (Next.js + custom APIs)
+- 🗣️ **Voice + agentic AI** — AI voice agents, Gmail assistants, document-to-lesson generators
+- 🧠 **Classical ML/CV** — image classification, detection, and analysis projects from my degree
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahxaib_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahxaibhassan" height="30" width="40" /></a>
-<a href="https://fb.com/shahxebhassan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahxebhassan1" height="30" width="40" /></a>
-<a href="https://instagram.com/shahxeb____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahxeb____" height="30" width="40" /></a>
-</p>
+Most of my production work is client work in private repos. I break systems down publicly on [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai/).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahxeebhassan&show_icons=true&locale=en&layout=compact" alt="shahxeebhassan" /></p>
+`n8n` `Make.com` `Python` `Next.js` `Airtable` `OpenAI` `Claude` `Gemini` `CrewAI` `VAPI` `ElevenLabs` `FastAPI` `Docker` `Linux` `self-hosted everything`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahxeebhassan&show_icons=true&locale=en" alt="shahxeebhassan" /></p>
+## Selected public work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahxeebhassan&" alt="shahxeebhassan" /></p>
+| Project | What it is |
+|---|---|
+| [ytdm](https://github.com/Shahzaib-Hasaan/ytdm) | IDM-style YouTube download manager, Windows desktop app |
+| [AI Surrogate](https://github.com/Shahzaib-Hasaan/Ai-Surrogate) | Agentic AI MVP: Gmail draft/approve/send + meeting scheduling (Mistral + OpenAI) |
+| [Memory-Mate](https://github.com/Shahzaib-Hasaan/Memory-Mate) | AI chat assistant with persistent memory (Python + Streamlit + Agno) |
+| [Chat with Multiple PDFs](https://github.com/Shahzaib-Hasaan/Chat-with-Multiple-PDFs) | RAG-style document Q&A |
+| [Breast Cancer Detection](https://github.com/Shahzaib-Hasaan/Breast-Cancer-Detection-Project) | Classical ML/CV from my degree work |
+
+## Find me
+
+🌐 [shahzaibbuilds.me](https://shahzaibbuilds.me) · 💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai/) · 📩 contact@shahzaibbuilds.me
