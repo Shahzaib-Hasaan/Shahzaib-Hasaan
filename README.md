@@ -24,7 +24,7 @@ Most of my production work is client work in private repos. I break systems down
 |---|---|
 | [AI Surrogate](https://github.com/Shahzaib-Hasaan/Ai-Surrogate) | Agentic AI MVP: Gmail draft/approve/send + meeting scheduling (Mistral + OpenAI) |
 | [Memory-Mate](https://github.com/Shahzaib-Hasaan/Memory-Mate) | AI chat assistant with persistent memory (Python + Streamlit + Agno) |
-| [Chat with Multiple PDFs](https://github.com/Shahzaib-Hasaan/Chat-with-Multiple-PDFs) | RAG-style document Q&A |
+| [Mango Types Classifier](https://github.com/Shahzaib-Hasaan/Mango-Types-Classification) | Classical CV: mango variety classification from photos (scikit-image + Streamlit) |
 | [Breast Cancer Detection](https://github.com/Shahzaib-Hasaan/Breast-Cancer-Detection-Project) | Classical ML/CV classification project |
 | [ytdm](https://github.com/Shahzaib-Hasaan/ytdm) | IDM-style YouTube download manager, Windows desktop app |
 
