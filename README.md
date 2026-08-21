@@ -12,7 +12,7 @@ A few years ago I was memorizing Biology chapters on the Pre-Medical track. Then
 - **Voice + agentic AI** — AI voice agents, Gmail assistants, document-to-lesson generators
 - **Classical ML / CV** — classification, detection, and computer vision projects
 
-Most of my production work is client work in private repos. I break systems down publicly on [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai/).
+Most of my production work is client work in private repos. I break systems down publicly on [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai-developer/).
 
 ## Stack
 
@@ -30,4 +30,4 @@ Most of my production work is client work in private repos. I break systems down
 
 ## Find me
 
-🌐 [shahzaibbuilds.me](https://shahzaibbuilds.me) · 💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai/) · 📩 contact@shahzaibbuilds.me
+🌐 [shahzaibbuilds.me](https://shahzaibbuilds.me) · 💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-hassan-ai-developer/) · 📩 contact@shahzaibbuilds.me
